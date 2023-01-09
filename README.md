@@ -23,9 +23,11 @@ Recently, the field of text mining gained more attention due to its enormous opp
 
 ### Screenshot
 
-![](./Images/Screenshot-Output.png)
+![](./Images/output-confusionmatrix.png)
 
-![](./Images/Screenshot-Output.png)
+![](./Images/output-result.png)
+
+![](./Images/output.png)
 
 ## My Process
 
