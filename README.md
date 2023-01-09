@@ -70,7 +70,7 @@ The main motto of this project is to help a ecommerce site to understand which p
 - [Github](https://github.com/DecodewithHappy)
 
 ### Koustav Pal
-- [Linkedin]()
+- [Linkedin](https://www.linkedin.com/in/koustav-pal-aa60b01a1)
 - [Github]()
 
 ### Madhumita Choudhury
